@@ -30,5 +30,10 @@
       "controller": "did:key:z6MkkrQrpCDcCZBUML6jdizgwzb9Ess9PvR3dFXTF6YwJPUn",
       "publicKeyBase58": "7Q9pDwyAs1h1EqG2xA2r6u39RJbHz3AgwEcXQpavPAhQ"
     }
-  ]
+  ],
+  "service": [{
+    "id": "did:key:z6MkkrQrpCDcCZBUML6jdizgwzb9Ess9PvR3dFXTF6YwJPUn",
+    "type": "LinkedInProfile",
+    "serviceEndpoint": "https://www.linkedin.com/in/simon-brown-7b792014/"
+  }]
 }
